@@ -137,6 +137,8 @@ venv.bak/
 
 # mkdocs documentation
 /site
+vikas.txt
+git.sh
 
 # mypy
 .mypy_cache/
