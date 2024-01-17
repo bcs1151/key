@@ -139,6 +139,7 @@ venv.bak/
 /site
 vikas.txt
 git.sh
+vikas.ipynb
 
 # mypy
 .mypy_cache/
